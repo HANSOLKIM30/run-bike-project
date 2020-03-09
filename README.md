@@ -3,8 +3,8 @@
 ## Overview
 1. 제작 목적: 자전거 라이딩을 효과적으로 도와주는 웹사이트입니다. 또한 여러 재미요소를 통해 자전거를 더욱 재미있게 즐길 수 있도록 하였습니다.
 2. 배포 주소: [https://runbike.cf/runbike(https://runbike.cf/runbike)](https://runbike.cf/runbike)
- * 테스트용 아이디 : `mail94@gmail.com`, `mail95@gmail.com`, `mail96@gmail.com`
- * 테스트용 비밀번호 : `ekdo321!`
+  * 테스트용 아이디 : `mail94@gmail.com`, `mail95@gmail.com`, `mail96@gmail.com`
+  * 테스트용 비밀번호 : `ekdo321!`
 3. [프로젝트 설명서](https://docs.google.com/presentation/d/1-ev-xINKcZvE2PZuUH929ff95VMC-zH2X3Hujy5CaF4/edit?usp=sharing)
 4. [시연 영상](https://youtu.be/l89zUgKG4cw)
   * 발표 영상 댓글에 타임스탬프가 적용된 목차가 있습니다.
@@ -12,13 +12,13 @@
 ## 참여자 & 개발기간
 
 * 참여자
- * **김한솔 ( @[HANSOLKIM30](https://github.com/HANSOLKIM30) )**   
- * 김다애 ( @[magiccircle03](https://github.com/magiccircle03) ) - 팀장 
- * 김희수 ( @[soo74](https://github.com/soo74) )  
- * 주예리나 ( @[orongee22](https://github.com/orongee22) )
+  * **김한솔 ( @[HANSOLKIM30](https://github.com/HANSOLKIM30) )**   
+  * 김다애 ( @[magiccircle03](https://github.com/magiccircle03) ) - 팀장 
+  * 김희수 ( @[soo74](https://github.com/soo74) )  
+  * 주예리나 ( @[orongee22](https://github.com/orongee22) )
 
 * 개발기간
- * 2019.09 ~ 2019.10
+  * 2019.09 ~ 2019.10
 
 ## 담당 기능
 * 혼자 라이딩
