@@ -1,8 +1,7 @@
 # Runbike
 > 실시간 커뮤니티 기능(함께 라이딩)과, 여러 재미요소(기록, 스탬프 등)를 통해 자전거를 더욱 재미있게 즐길 수 있도록 도와주는 서비스
 >
-> [Runbike 사이트 바로가기(https://runbike.cf/runbike)](https://runbike.cf/runbike) 
->
+> * [Runbike 사이트 바로가기(https://runbike.cf/runbike)](https://runbike.cf/runbike)
 > * 테스트용 아이디 : `mail94@gmail.com`, `mail95@gmail.com`, `mail96@gmail.com`
 > * 테스트용 비밀번호 : `ekdo321!`
 
@@ -38,7 +37,7 @@
 ![테이블 구조](https://user-images.githubusercontent.com/51072198/69480578-effea300-0e4b-11ea-94f4-1692a526c6d5.PNG)
 
 
-## 본인 구현 기능
+## 담당 구현 기능
 * 혼자 라이딩
   * 서울시 API-따릉이를 이용한 근처 따릉이 정류장 안내 및 현재 남아있는 따릉이 개수 안내 
   * T-map API를 이용한 길찾기 
