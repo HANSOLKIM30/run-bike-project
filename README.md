@@ -4,7 +4,7 @@
 * 제작 목적<br>
 자전거 라이딩을 효과적으로 도와주는 웹사이트입니다.<br>또한 여러 재미요소를 통해 자전거를 더욱 재미있게 즐길 수 있도록 하였습니다.
 * 배포 주소 
-  * [https://runbike.cf/runbike(https://runbike.cf/runbike)]
+  * https://runbike.cf/runbike(https://runbike.cf/runbike)
   * 테스트용 아이디 : `mail94@gmail.com`, `mail95@gmail.com`, `mail96@gmail.com`
   * 테스트용 비밀번호 : `ekdo321!`
 * [프로젝트 설명서](https://docs.google.com/presentation/d/1-ev-xINKcZvE2PZuUH929ff95VMC-zH2X3Hujy5CaF4/edit?usp=sharing)
