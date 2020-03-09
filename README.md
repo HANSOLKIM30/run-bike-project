@@ -41,7 +41,7 @@
 * 사용 언어 및 프레임워크
   * `Java`
   * `Spring Framework`
-  * `jsp`, `EL`
+  * `jsp`,  `jstl`, `EL`
   
 * 웹 표준 및 프론트
   * `HTML5`, `CSS3`, `Javascript`
